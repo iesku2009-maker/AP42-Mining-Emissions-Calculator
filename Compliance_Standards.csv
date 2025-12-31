@@ -1,0 +1,4 @@
+Pollutant,Uncontrolled (tons/yr),Controlled (tons/yr),USEPA Limit (tons/yr),State Limit (tons/yr),USEPA Status,State Status,Recommended Action
+TSP,3830.34,698.09,1000,500,PASS,EXCEEDS,Increase control measures
+PM10,1010.97,226.79,250,150,PASS,EXCEEDS,Upgrade dust collectors
+PM2.5,158.95,55.19,35,25,EXCEEDS,EXCEEDS,Implement additional PM2.5 controls
