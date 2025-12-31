@@ -1,0 +1,62 @@
+Parameter,Value,Unit,Notes
+OPERATIONAL SCHEDULE
+Operating Hours per Day,24,hrs/day,Continuous Operations
+Operating Days per Year,365,days/year,Annual
+Total Operating Hours per Year,8760,hrs/year,24 × 365
+Blasts per Day,2,blasts/d,6AM and 6PM
+Total Blasts per Year,730,blasts/yr,2 × 365
+
+THROUGHPUT DATA
+Ore Throughput,3.5,Mtpa,Million tons per annum
+Waste Throughput,28,Mtpa,Million tons per annum
+Rejects Throughput,3.5,Mtpa,Million tons per annum
+Total Throughput,35,Mtpa,Sum of all materials
+Total Throughput (tons/year),35000000,tons/yr,35 × 1,000,000
+
+MATERIAL PROPERTIES - ORE
+Ore Silt Content,8,%,Particle size < 75 µm
+Ore Moisture Content,1,%,Water content
+
+MATERIAL PROPERTIES - WASTE
+Waste Silt Content,13.2,%,Particle size < 75 µm
+Waste Moisture Content,2.6,%,Water content
+
+MATERIAL PROPERTIES - REJECTS
+Rejects Silt Content,8,%,Particle size < 75 µm
+Rejects Moisture Content,1,%,Water content
+
+EQUIPMENT INVENTORY
+Ore Dozers,6,No,In-pit operations
+Waste Dozers,2,No,Waste dump operations
+Total Dozers,8,No,Sum
+Graders,4,No,Road maintenance
+Grader Average Speed,8,km/h,Operational speed
+Haul Trucks (Type),Cat 777G,Type,Caterpillar 777G dual slope
+Haul Truck Capacity,91,tons/load,Per load capacity
+
+ROAD NETWORK
+Road: Pit to ROM Pad,2128,m,One-way distance
+Road: Pit to Waste Dump,6875,m,One-way distance
+Total Road Length (one-way),9003,m,Sum
+Total Road Length (round-trip),18006,m,× 2
+Road Silt Content,10,%,Surface material
+
+WIND EROSION AREAS
+Active Pit Area,577000,m²,Wind erosion source
+Inactive Pits Area,867000,m²,Wind erosion source
+ROM Pad Area,104000,m²,Wind erosion source
+Tailings Storage Facility,823000,m²,Wind erosion source
+Waste Dump Area,2807000,m²,Wind erosion source
+Total Erodible Area,5178000,m²,Sum
+
+CONVEYOR SYSTEM
+Conveyor: Primary to Secondary,200,m,Length
+Conveyor: Secondary to Screen,200,m,Length
+Conveyor: Screen to Processing,200,m,Length
+Total Conveyor Length,600,m,Sum
+Number of Transfer Points,3,No,Emission sources
+
+METEOROLOGICAL DATA
+Average Wind Speed,8,m/s,Site-specific
+Threshold Wind Speed (Erosion),11.6,m/s,AP-42 default
+Wind Erosion Factor,0.5,-,When wind < threshold
