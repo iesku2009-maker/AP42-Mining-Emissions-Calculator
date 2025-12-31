@@ -1,0 +1,15 @@
+Control Measure,Activity,Status,TSP Reduction %,PM10 Reduction %,PM2.5 Reduction %,Annual Cost (USD),Effectiveness
+Water Suppression - Drilling,Drilling,Active,75,75,50,50000,High
+Water Suppression - Blasting,Blasting,Active,75,75,50,50000,High
+Dust Control - Ore Dozers,Dozers - Ore,Active,50,50,50,75000,Medium
+Dust Control - Waste Dozers,Dozers - Waste,Active,50,50,50,75000,Medium
+Road Stabilization,Hauling,Active,85,85,70,200000,High
+Speed Limits - Haul Roads,Hauling,Active,40,40,30,10000,Low
+Grader Speed Limits,Graders,Active,40,40,30,10000,Low
+Dust Collectors - Primary Crusher,Crushing,Active,99,99,95,150000,Very High
+Dust Collectors - Secondary Crusher,Crushing,Active,99,99,95,150000,Very High
+Dust Collectors - Grinding Mill,Grinding,Active,99,99,95,150000,Very High
+Enclosures - Transfer Points,Material Handling,Active,90,90,85,80000,High
+Vegetative Cover - Stockpiles,Wind Erosion,Active,80,80,60,75000,High
+Wind Barriers - Waste Dump,Wind Erosion,Active,20,20,20,100000,Medium
+TOTAL ANNUAL CONTROL COSTS,,,,,,,695000
