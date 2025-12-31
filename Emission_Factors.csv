@@ -1,0 +1,34 @@
+Activity,Pollutant,Emission Factor Value,Unit,Source,Notes
+Drilling,TSP,0.59,kg/hole,AP-42 Insert Equation,Drilling Reference
+Drilling,PM10,0.31,kg/hole,AP-42,52% of TSP
+Drilling,PM2.5,0.0155,kg/hole,AP-42,2.6% of TSP
+Blasting,TSP,0.59,kg/hole,AP-42 Insert Equation,Insert AP-42 Equation
+Blasting,PM10,0.31,kg/hole,AP-42,52% of TSP
+Blasting,PM2.5,0.0155,kg/hole,AP-42,2.6% of TSP
+Dozers - Ore,TSP,31.5,kg/Mtpa,AP-42 Insert Equation,Base value for ore
+Dozers - Ore,PM10,23.6,kg/Mtpa,AP-42,75% of TSP
+Dozers - Ore,PM2.5,3.15,kg/Mtpa,AP-42,10% of TSP
+Dozers - Waste,TSP,16.8,kg/Mtpa,AP-42 Insert Equation,Adjusted for silt & moisture
+Dozers - Waste,PM10,12.6,kg/Mtpa,AP-42,75% of TSP
+Dozers - Waste,PM2.5,1.68,kg/Mtpa,AP-42,10% of TSP
+Hauling - Unpaved Roads,TSP,1.5,lb/VMT,AP-42 Table 13.2.2,Silt content = 10%
+Hauling - Unpaved Roads,PM10,0.34,lb/VMT,AP-42 Table 13.2.2,Silt content = 10%
+Hauling - Unpaved Roads,PM2.5,0.054,lb/VMT,AP-42 Table 13.2.2,Silt content = 10%
+Graders,TSP,0.09,lb/mile,AP-42 Table 13.2.3,Silt content = 10%
+Graders,PM10,0.02,lb/mile,AP-42 Table 13.2.3,Silt content = 10%
+Graders,PM2.5,0.003,lb/mile,AP-42 Table 13.2.3,Silt content = 10%
+Primary Crusher,TSP,0.0032,kg/ton,AP-42 Table 11.19-5,Crushing
+Primary Crusher,PM10,0.00073,kg/ton,AP-42,22.8% of TSP
+Primary Crusher,PM2.5,0.00015,kg/ton,AP-42,4.7% of TSP
+Secondary Crusher,TSP,0.0024,kg/ton,AP-42 Table 11.19-5,Crushing
+Secondary Crusher,PM10,0.00055,kg/ton,AP-42,22.9% of TSP
+Secondary Crusher,PM2.5,0.00011,kg/ton,AP-42,4.6% of TSP
+Grinding Mill,TSP,0.0018,kg/ton,AP-42 Table 11.19-5,Grinding
+Grinding Mill,PM10,0.00041,kg/ton,AP-42,22.8% of TSP
+Grinding Mill,PM2.5,0.00008,kg/ton,AP-42,4.4% of TSP
+Material Handling,TSP,0.0016,kg/ton,AP-42 Table 11.19-6,Conveyor Transfer Points
+Material Handling,PM10,0.00037,kg/ton,AP-42,23.1% of TSP
+Material Handling,PM2.5,0.000074,kg/ton,AP-42,4.6% of TSP
+Wind Erosion,TSP,0.00021,lb/m²/yr,AP-42 Table 11.19-7,Silt content = 13.2%
+Wind Erosion,PM10,0.000048,lb/m²/yr,AP-42,22.9% of TSP
+Wind Erosion,PM2.5,0.0000097,lb/m²/yr,AP-42,4.6% of TSP
